@@ -1,0 +1,8 @@
+#Flower,#B,#Image,#A{
+    width: 250px;
+    height: 300px;
+}
+#Flower img,#B img ,#Image img,#A img{
+    width: 100%;
+    height: 70%;
+}
